@@ -8,7 +8,7 @@ This project aims to analyze the lyrics of songs featured on Billboard charts ov
 
 ## Data Exploration
 
-The dataset is a collection of Billboard lyrics from 1964 to 2015. Initial exploration and analysis are conducted to understand its structure and contents. The dataset can be found [here](https://github.com/walkerkq/musiclyrics/blob/master/billboard_lyrics_1964-2015.csv)
+The dataset is a collection of Billboard lyrics from 1964 to 2015. Initial exploration and analysis are conducted to understand its structure and contents. The dataset can be found [here](https://github.com/walkerkq/musiclyrics/blob/master/billboard_lyrics_1964-2015.csv).
 
 ## Preprocessing
 
